@@ -1,0 +1,11 @@
+# By default excluded everything
+/*
+
+# Include ignore file
+!.gitignore
+
+# Add project README and CHANGELOG files
+!README.md
+!CHANGELOG.md
+# Include .config folder
+!/.config
