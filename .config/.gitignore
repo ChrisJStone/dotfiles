@@ -3,3 +3,6 @@
 
 # Include ignore file
 !.gitignore
+
+# Include neovim
+!/nvim
