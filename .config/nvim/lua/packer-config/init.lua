@@ -42,4 +42,7 @@ return require("packer").startup(function(use)
     -- Your plugins here
     use 'wbthomason/packer.nvim'
 
+    -- Color Schemes
+    use "EdenEast/nightfox.nvim"
+
 end)

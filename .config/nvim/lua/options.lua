@@ -12,3 +12,5 @@ set.relativenumber = true -- set relative numbered lines
 set.termguicolors = true -- set term gui colors (most terminals support this)
 set.smartindent = true -- Insert indents automatically
 set.fileencoding = "utf-8" -- the encoding written to a file
+vim.cmd("colorscheme carbonfox")
+
