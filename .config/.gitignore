@@ -1,0 +1,5 @@
+# By default excluded everything
+/*
+
+# Include ignore file
+!.gitignore

@@ -1,0 +1,8 @@
+# By default excluded everything
+/*
+
+# Include ignore file
+!.gitignore
+
+# Include .config folder
+!/.config
