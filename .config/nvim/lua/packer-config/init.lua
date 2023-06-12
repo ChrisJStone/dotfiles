@@ -45,4 +45,10 @@ return require("packer").startup(function(use)
     -- Color Schemes
     use "EdenEast/nightfox.nvim"
 
+    -- Nvim-web-devicons
+    use 'nvim-tree/nvim-web-devicons'
+
+    -- Nvim-tree
+    use 'nvim-tree/nvim-tree.lua'
+
 end)
