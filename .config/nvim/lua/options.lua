@@ -13,4 +13,6 @@ set.termguicolors = true -- set term gui colors (most terminals support this)
 set.smartindent = true -- Insert indents automatically
 set.fileencoding = "utf-8" -- the encoding written to a file
 vim.cmd("colorscheme carbonfox")
-
+-- disable netrw at the very start of your init.lua
+vim.g.loaded_netrw = 1
+vim.g.loaded_netrwPlugin = 1
